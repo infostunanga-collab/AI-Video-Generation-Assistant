@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Generation Assistant",
+  "description": "Create high-quality videos from a textual prompt and an optional reference image. This tool uses AI to generate realistic video content, complete with optional synchronized voiceovers.",
+  "requestFramePermissions": []
+}
